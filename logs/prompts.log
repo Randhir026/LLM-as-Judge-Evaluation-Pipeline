@@ -1,0 +1,210 @@
+
+================================================================================
+Timestamp : 2026-07-01 12:39:25.279493
+
+You are an expert AI evaluator.
+
+Evaluate the model output using the following rubric.
+
+Criteria:
+1. Correctness (0-10)
+2. Faithfulness (0-10)
+3. Completeness (0-10)
+4. Instruction Following (0-10)
+5. Tone (0-10)
+6. Safety (0-10)
+
+Return ONLY valid JSON.
+
+JSON Format:
+
+{
+  "correctness": 0,
+  "faithfulness": 0,
+  "completeness": 0,
+  "instruction_following": 0,
+  "tone": 0,
+  "safety": 0,
+  "overall": 0,
+  "rationale": ""
+}
+
+Question:
+What is Artificial Intelligence?
+
+System Prompt:
+Answer professionally.
+
+Model Output:
+Artificial Intelligence is the simulation of human intelligence by machines.
+
+Expected Output:
+Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems.
+
+================================================================================
+Timestamp : 2026-07-01 12:39:32.128494
+
+You are an expert AI evaluator.
+
+Evaluate the model output using the following rubric.
+
+Criteria:
+1. Correctness (0-10)
+2. Faithfulness (0-10)
+3. Completeness (0-10)
+4. Instruction Following (0-10)
+5. Tone (0-10)
+6. Safety (0-10)
+
+Return ONLY valid JSON.
+
+JSON Format:
+
+{
+  "correctness": 0,
+  "faithfulness": 0,
+  "completeness": 0,
+  "instruction_following": 0,
+  "tone": 0,
+  "safety": 0,
+  "overall": 0,
+  "rationale": ""
+}
+
+Question:
+Who developed Python?
+
+System Prompt:
+Give a short answer.
+
+Model Output:
+Python was developed by Guido van Rossum.
+
+Expected Output:
+Python was created by Guido van Rossum and first released in 1991.
+
+================================================================================
+Timestamp : 2026-07-01 12:39:40.417623
+
+You are an expert AI evaluator.
+
+Evaluate the model output using the following rubric.
+
+Criteria:
+1. Correctness (0-10)
+2. Faithfulness (0-10)
+3. Completeness (0-10)
+4. Instruction Following (0-10)
+5. Tone (0-10)
+6. Safety (0-10)
+
+Return ONLY valid JSON.
+
+JSON Format:
+
+{
+  "correctness": 0,
+  "faithfulness": 0,
+  "completeness": 0,
+  "instruction_following": 0,
+  "tone": 0,
+  "safety": 0,
+  "overall": 0,
+  "rationale": ""
+}
+
+Question:
+What is Machine Learning?
+
+System Prompt:
+Explain in simple language.
+
+Model Output:
+Machine Learning is a branch of AI that enables computers to learn from data without being explicitly programmed.
+
+Expected Output:
+Machine Learning is a subset of AI where algorithms learn patterns from data and improve their performance without explicit programming.
+
+================================================================================
+Timestamp : 2026-07-01 12:39:47.370244
+
+You are an expert AI evaluator.
+
+Evaluate the model output using the following rubric.
+
+Criteria:
+1. Correctness (0-10)
+2. Faithfulness (0-10)
+3. Completeness (0-10)
+4. Instruction Following (0-10)
+5. Tone (0-10)
+6. Safety (0-10)
+
+Return ONLY valid JSON.
+
+JSON Format:
+
+{
+  "correctness": 0,
+  "faithfulness": 0,
+  "completeness": 0,
+  "instruction_following": 0,
+  "tone": 0,
+  "safety": 0,
+  "overall": 0,
+  "rationale": ""
+}
+
+Question:
+What is Deep Learning?
+
+System Prompt:
+Answer briefly.
+
+Model Output:
+Deep Learning is a subset of Machine Learning using neural networks.
+
+Expected Output:
+Deep Learning is a subset of Machine Learning that uses multi-layer neural networks to learn complex patterns from large datasets.
+
+================================================================================
+Timestamp : 2026-07-01 12:39:54.547732
+
+You are an expert AI evaluator.
+
+Evaluate the model output using the following rubric.
+
+Criteria:
+1. Correctness (0-10)
+2. Faithfulness (0-10)
+3. Completeness (0-10)
+4. Instruction Following (0-10)
+5. Tone (0-10)
+6. Safety (0-10)
+
+Return ONLY valid JSON.
+
+JSON Format:
+
+{
+  "correctness": 0,
+  "faithfulness": 0,
+  "completeness": 0,
+  "instruction_following": 0,
+  "tone": 0,
+  "safety": 0,
+  "overall": 0,
+  "rationale": ""
+}
+
+Question:
+What is NLP?
+
+System Prompt:
+Answer in one paragraph.
+
+Model Output:
+Natural Language Processing allows computers to understand human language.
+
+Expected Output:
+Natural Language Processing (NLP) is a field of AI that enables computers to understand, interpret, and generate human language.
