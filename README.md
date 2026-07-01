@@ -260,6 +260,8 @@ Skills:
 - Generative AI
 - FastAPI
 - LLM Applications
+- Django
+  
 
 ---
 
