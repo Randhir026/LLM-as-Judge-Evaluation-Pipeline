@@ -69,7 +69,7 @@ llm_judge_pipeline/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/llm_judge_pipeline.git
+git clone https://github.com/randhir026/llm_judge_pipeline.git
 cd llm_judge_pipeline
 ```
 
