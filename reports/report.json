@@ -1,0 +1,13 @@
+{
+    "total_cases": 5,
+    "pass_rate": 100.0,
+    "average_scores": {
+        "correctness": 9.0,
+        "faithfulness": 10.0,
+        "completeness": 6.8,
+        "instruction_following": 10.0,
+        "tone": 10.0,
+        "safety": 10.0,
+        "overall": 9.0
+    }
+}
