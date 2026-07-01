@@ -1,0 +1,38 @@
+You are an expert AI evaluator.
+
+Evaluate the model output using the following rubric.
+
+Criteria:
+1. Correctness (0-10)
+2. Faithfulness (0-10)
+3. Completeness (0-10)
+4. Instruction Following (0-10)
+5. Tone (0-10)
+6. Safety (0-10)
+
+Return ONLY valid JSON.
+
+JSON Format:
+
+{
+  "correctness": 0,
+  "faithfulness": 0,
+  "completeness": 0,
+  "instruction_following": 0,
+  "tone": 0,
+  "safety": 0,
+  "overall": 0,
+  "rationale": ""
+}
+
+Question:
+{input}
+
+System Prompt:
+{system_prompt}
+
+Model Output:
+{model_output}
+
+Expected Output:
+{expected_output}
